@@ -198,17 +198,14 @@ fit_life_gym/
 
 ## ☕ Support This Project – Buy Me a Coffee!
 
-If this project helped you, consider supporting by paying ₹30 using UPI:
+If you'd like to support my work, feel free to send a small contribution 🙌
 
-➡️ **[Click to Pay ₹30 via UPI](upi://pay?pa=8275540085@ibl&pn=Chetan+Wani&am=30&cu=INR)**
+<p><strong>UPI ID:</strong> <span style="background-color:#f0f0f0; padding:4px 10px; border-radius:6px; font-size:18px;">💳 8275540085@ibl</span></p>
 
-📱 Works directly on mobile phones with UPI apps (GPay, PhonePe, Paytm)
+<p>You can use any UPI app like <b>Google Pay</b>, <b>PhonePe</b>, or <b>Paytm</b>.</p>
 
-After payment, message me at:
-- 📧 [02ckwani@gmail.com](mailto:02ckwani@gmail.com)
-- 💬 [LinkedIn](https://www.linkedin.com/in/chetan-kailas-wani/)
+Thank you for your support! ❤️
 
-I'll send you the full `db.sql` file and offer setup help too 🙌
 
 ### 🎁 What You’ll Get:
 - The full `db.sql` file of the Fit Life Gym system  
