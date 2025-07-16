@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Live Demo
-> _Optional: Add GitHub Pages/Netlify/hosted link if available_
+- will Come soon
 
 ---
 
@@ -63,13 +63,80 @@ if (!$conn) {
 
 ## 🖼️ Sample Screenshots
 
-| 📸 Dashboard (Admin)                      | 📸 Member View                            |
-| ----------------------------------------- | ----------------------------------------- |
-| ![Admin](screenshots/admin_dashboard.png) | ![Member](screenshots/member_profile.png) |
+---
 
-> *Add your screenshots in a `screenshots/` folder and link them here.*
+### 🏠 Home Page  
+A welcoming landing page for the Fit Life Gym website.
+![Home Page](screenshots/home.png)
 
 ---
+
+### ℹ️ About Page  
+Displays gym details, mission, and trainer information.
+![About Page](screenshots/about.png)
+
+---
+
+### 🖼️ Gallery Page  
+Photos of equipment, facilities, and events at the gym.
+![Gallery Page](screenshots/gallery.png)
+
+---
+
+### 🔐 Login – Admin / Trainer  
+Secure login panel for admins and trainers.
+![Login Admin/Trainer](screenshots/loginAdmin.png)
+
+---
+
+### 🧑‍💼 Admin Dashboard  
+Powerful control panel for managing members, trainers, plans, and payments.
+![Admin Dashboard](screenshots/AdminDashboard.png)
+
+---
+
+### ➕ Add Member / Trainer (By Admin)  
+Admin interface to add and manage gym staff and members.
+![Add Member/Trainer](screenshots/create-trainer.png)
+
+---
+
+### 🙋‍♂️ Member Login  
+Simple and secure login portal for gym members.
+![Member Login](screenshots/member-login.png)
+
+---
+
+### 🏋️‍♂️ Member Dashboard  
+Member’s personalized dashboard showing profile, attendance, and payments.
+![Member Dashboard](screenshots/member-dashboard.png)
+
+---
+
+### 📲 QR-Based Attendance  
+Scan-based attendance system for quick and secure check-ins.
+![QR Attendance](screenshots/qr-attendance.png)
+
+---
+
+### 🧑‍🏫 Trainer Assigning Members  
+Trainers can view and assign workout plans to members.
+![Trainer Member Assign](screenshots/trainer-member-assign.png)
+
+---
+
+### 💳 Payment History  
+View complete transaction and membership payment history.
+![Payment History](screenshots/payment-history.png)
+
+---
+
+### 📋 Alternate Member Dashboard View  
+Another layout for enhanced member experience and navigation.
+![Member Dashboard v2](screenshots/member-dashbaord-2.png)
+
+---
+
 
 ## 🚀 How to Run
 
@@ -123,9 +190,9 @@ fit_life_gym/
 ## 🙋‍♂️ Author
 
 **Chetan Wani**
-📧 [chetanwani.dev@gmail.com](mailto:chetanwani.dev@gmail.com)
+📧 [chetan.contact999@gmail.com](mailto:chetan.contact999@gmail.com)
 🌐 [linkedin.com/in/chetanwani](https://linkedin.com/in/chetanwani)
-💻 [GitHub – ChetanWani](https://github.com/chetanwani) 
+💻 [GitHub – ChetanWani]([https://github.com/chetanwan](https://github.com/Wani-Chetan-999/)
 
 ---
 
