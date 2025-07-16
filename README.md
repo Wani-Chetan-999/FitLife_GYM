@@ -59,9 +59,12 @@ if (!$conn) {
 ?>
 ````
 
-💡 Import the provided SQL file (`fit_life_gym.sql`) to set up tables.
+<a href="upi://pay?pa=8275540085@ibl&pn=Chetan+Wani&am=100&cu=INR">
+  <button style="padding: 10px 20px; background-color: green; color: white; font-size: 16px; border: none; border-radius: 6px; cursor: pointer;">
+    📲 Click to Pay ₹100 via UPI
+  </button>
+</a>
 
----
 
 ## 🖼️ Sample Screenshots
 
