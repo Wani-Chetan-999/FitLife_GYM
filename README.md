@@ -187,14 +187,42 @@ fit_life_gym/
 
 ---
 
-## 🙋‍♂️ Author
+## 📞 Contact
 
-**Chetan Wani**
-📧 [chetan.contact999@gmail.com](mailto:chetan.contact999@gmail.com)
-🌐 [linkedin.com/in/chetanwani](https://linkedin.com/in/chetanwani)
-💻 [GitHub – ChetanWani]([https://github.com/chetanwan](https://github.com/Wani-Chetan-999/)
+- **Name**: Chetan Wani  
+- **Email**: [02ckwani@gmail.com](mailto:02ckwani@gmail.com)  
+- **GitHub**: [Wani-Chetan-999](https://github.com/Wani-Chetan-999)  
+- **LinkedIn**: [chetan-kailas-wani](https://www.linkedin.com/in/chetan-kailas-wani/)  
 
 ---
+
+## ☕ Support This Project – Buy Me a Coffee!
+
+If this project helped you, consider supporting by paying ₹30 using UPI:
+
+➡️ **[Click to Pay ₹30 via UPI](upi://pay?pa=8275540085@ibl&pn=Chetan+Wani&am=30&cu=INR)**
+
+📱 Works directly on mobile phones with UPI apps (GPay, PhonePe, Paytm)
+
+After payment, message me at:
+- 📧 [02ckwani@gmail.com](mailto:02ckwani@gmail.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/chetan-kailas-wani/)
+
+I'll send you the full `db.sql` file and offer setup help too 🙌
+
+### 🎁 What You’ll Get:
+- The full `db.sql` file of the Fit Life Gym system  
+- My help if you get stuck using the project  
+- A virtual high five 🙌
+
+After payment, just message me at:
+📧 **[02ckwani@gmail.com](mailto:02ckwani@gmail.com)**  
+📩 or DM me on [LinkedIn](https://www.linkedin.com/in/chetan-kailas-wani/)
+
+---
+
+
+
 
 ## 📜 License
 
